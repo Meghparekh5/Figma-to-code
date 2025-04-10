@@ -634,7 +634,7 @@ font-family: var(--footer-font);
 font-size: 128px;
 color: var(--black);
 }
-..footer-info{
+.footer-info{
     margin-top: 20px;
 }
 .footer-info ul{
